@@ -23,7 +23,7 @@ For a detailed technical report of the project, complete of mathematical formula
 ## How to Run the Simulation
 1. Clone this repository: `git clone https://github.com/haroonaliarfat/f1-laptime-simulator.git`
 2. Open MATLAB and navigate to the `src/` directory.
-3. Run the Script `laptime_sim_grip.m`, or the Live Script with `laptime_sim_grip_live.mlx`.
+3. Run the Script `laptime_sim_grip.m`.
 4. Select your preferred track from the interactive GUI pop-up.
 
 ## Model Evolution & Future Work
